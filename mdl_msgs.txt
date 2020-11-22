@@ -1,1 +1,2 @@
-
+If used the built-in updater to download the latest update, please manually update instead by downloading and replacing your local files with the ones from gitbub.
+https://github.com/Rudoal/mdownloader
