@@ -1,2 +1,2 @@
-Please manually update to the latest version, the in-built updater was broken and wouldn't update all the files. This has been fixed in the lateat update.
+Please manually update to the latest version, the in-built updater was broken and wouldn't update all the files. This has been fixed in the lateat update. If you have manually updated already, ignore this message.
 https://github.com/Rudoal/mdownloader
