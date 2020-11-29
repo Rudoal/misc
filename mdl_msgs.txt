@@ -1,2 +1,1 @@
-Folder making will be removed in the next update, if you use this and still want it, mention it on the github.
-https://github.com/Rudoal/mdownloader 
+
