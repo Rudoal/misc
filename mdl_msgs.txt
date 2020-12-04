@@ -1,2 +1,2 @@
-Due to version number conflicts, the latest update will not downloaded. Please manually update the program.
+Due to version number conflicts, the latest update (v2.8.2) will not be downloaded. Please manually update the program.
 https://github.com/Rudoal/mdownloader
